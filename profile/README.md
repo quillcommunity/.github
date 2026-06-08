@@ -1,4 +1,5 @@
-🪶 This is the community effort to continue a maintained fork of the Quill editor.
+🪶 This is the community effort to continue a maintained fork of the Quill editor and includes code licensed under the BSD-3-Clause License.
+It is not affiliated with, endorsed by, or sponsored by the original Quill project or its contributors.
 
 The goal is to...
 
